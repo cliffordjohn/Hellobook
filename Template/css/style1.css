@@ -1,0 +1,197 @@
+
+body{
+
+
+margin: 0 auto;
+
+background-repeat: no-repeat;
+background-position: center;
+
+
+
+}
+
+
+body{
+	background-image:url("Back22.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+
+.container1{
+width:700px;
+height: 1200px;
+text-align: center;
+background-color: rgba(52, 73, 94, 0.7);
+
+
+
+border-radius: 20px;
+margin: 10px;
+margin-top: 50px;
+margin-left: 300px;
+
+
+}
+
+
+
+
+
+.container3{
+width:500px;
+height: 600px;
+text-align: center;
+
+
+background-image:url("Page4.jpg");
+
+border-radius: 20px;
+margin: 10px;
+margin-top: 50px;
+margin-left: 300px;
+background-repeat: no-repeat;
+
+}
+
+
+
+
+.container4{
+width:500px;
+height: 600px;
+text-align: center;
+background-image:url("Back2.png");
+
+
+background-size: 500px 600px;
+    
+
+border-radius: 20px;
+margin: 10px;
+margin-top: 50px;
+margin-left: 300px;
+background-repeat: no-repeat;
+
+
+
+}
+
+
+.container6{
+width:700px;
+height: 600px;
+text-align: center;
+background-color: #f5f5f5;
+
+background-image:url("comic2.png");
+
+background-size:cover;
+
+
+
+border-radius: 20px;
+margin: 10px;
+margin-top: 50px;
+margin-left: 300px;
+background-repeat: no-repeat;
+
+
+}
+
+
+
+
+
+
+
+
+.row1{
+  width: 500px;
+ 
+  
+
+}
+
+
+
+.waves-effect{
+	position: absolute: top: 100px;
+}
+
+.card-content{
+	width: 500px;
+
+}
+
+
+
+
+
+
+
+.card-content{
+width: 250px;
+text-underline-position: center;
+
+}
+
+
+.form-input
+{
+height:45px;
+width:300px;
+font-size: 18px;
+margin-bottom: 20px;
+font-color: black;
+background-color: white;
+padding-left: 30px;
+margin-left: 20px;
+position: center;
+
+
+
+}
+
+.text{
+	font-color: black;
+
+}
+
+
+
+
+
+.Hello-text
+{
+
+margin-top:30px;
+text-align: center;
+text-decoration-color: black;
+
+}
+
+
+
+
+.hero{
+
+width:1140px;
+top:80%;
+left:45%;
+
+
+}
+.btn-login{
+	padding: 15px 30px;
+	color:red;
+	border-radius: 4px;
+	border: none;
+	background-color: #2ECC71;
+	border-bottom: 4px solid #27AE60;
+
+}
